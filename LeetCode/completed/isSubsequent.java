@@ -1,4 +1,4 @@
-package LeetCode.devam;
+package LeetCode.completed;
 
 // import java.util.*;
 public class isSubsequent{
