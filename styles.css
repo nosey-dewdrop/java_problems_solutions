@@ -26,7 +26,7 @@ h1{
 body{
     height: 100vh;
     margin-top: 90px;
-    background-image:url('/website/resimler/fairyDance.png');
+    background-image:url('fairyDance.png');
     background-size: cover; /*bu sayede güzel bir şekilde tamamladı ve ona göre ayarlanabiliyor.*/
 
     background-position: center;
